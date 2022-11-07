@@ -23,7 +23,7 @@ You must use the header and footer tags
 You are not allowed to import any files
 You are not allowed to use the style tag in the head tag
 Use inline styling for all your tags
-###1. Head styling
+###1.Head_styling
 Write an HTML page that displays a header and a footer by using the style tag in the head tag (same as 0-index.html)
 
 Requirements:
@@ -39,3 +39,21 @@ Repo:
 GitHub repository: AirBnB_clone
 Directory: web_static
 File: 1-index.html
+###2.CSS_files
+Write an HTML page that displays a header and a footer by using CSS files (same as 1-index.html)
+
+Requirements:
+
+You must use the header and footer tags
+No inline styling
+You must have 3 CSS files:
+styles/2-common.css: for global style (i.e. the body style)
+styles/2-header.css: for header style
+styles/2-footer.css: for footer style
+The layout must be exactly the same as 1-index.html
+
+Repo:
+
+GitHub repository: AirBnB_clone
+Directory: web_static
+File: 2-index.html, styles/2-common.css, styles/2-header.css, styles/2-footer.css
